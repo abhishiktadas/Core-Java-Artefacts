@@ -1,2 +1,2 @@
-# abhishikta_das
+# Core JAVA artefacts
 Development
